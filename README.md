@@ -1,6 +1,6 @@
 ![alt text](https://github.com/UrbanPlanner42/PRINCIPLES-OF-URBAN-INFORMATICS/blob/master/NYU_Logo.png)
 
-# Optimization Ambulance Service in New Orlearns.
+# Optimization Ambulance Service in New Orlearns
 
 The City of New Orleans tasks me and my team design an R code that helps them to schedule their ambulance services.  We create a script that can predict when New Orleans will have not ambulance not available and the right amount of ambulances to cover the deficiency. 
 
